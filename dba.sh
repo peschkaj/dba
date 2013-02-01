@@ -20,4 +20,10 @@ while [ 1 ]; do
 	sleep 10s;
 	say "I'm not deploying that feature"
 	sleep 5s;
+	say "I need RAID 10";
+	sleep 5s;
+	say "Our license doesn't cover that";
+	sleep 5s;
+	say "That's not best practices";
+	sleep 10s;
 done
