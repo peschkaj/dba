@@ -48,4 +48,12 @@ while [ 1 ]; do
 	sleep 1s
 	say "Just because I wrote a cursor, doesn't mean you should"
 	sleep 5s
+	say "You can easily perform this join in the app layer"
+	sleep 3s
+	say "What's hard about caching?"
+	sleep 2s
+	say "If I don't have permissions, I don't see why you shold get permissions"
+	sleep 5s
+	say "Adam Machanic explained it to me. You're not capable of understanding it."
+	sleep 4s
 done
