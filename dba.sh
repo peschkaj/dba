@@ -56,4 +56,16 @@ while [ 1 ]; do
 	sleep 5s
 	say "Adam Machanic explained it to me. You're not capable of understanding it."
 	sleep 4s
+	say "While you were busy playing Minecraft, I was doing my job"
+	sleep 3s
+	say "It's hard to look this good and put up with you at the same time"
+	sleep 6s
+	say "No."
+	sleep 3s
+	say "I'm an MCDBA, trust me."
+	sleep 4s
+	say "Don't make me call the consultant."
+	sleep 2s
+	say "Did you forget the last time I said no?"
+	sleep 6s
 done
