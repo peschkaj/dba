@@ -20,4 +20,6 @@ while [ 1 ]; do
 	sleep 10s;
 	say "I'm not deploying that feature"
 	sleep 5s;
+	say "Oh, that's cute, no"
+	sleep 2s;
 done
