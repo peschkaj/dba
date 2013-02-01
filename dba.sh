@@ -22,4 +22,10 @@ while [ 1 ]; do
 	sleep 5s;
 	say "Oh, that's cute, no"
 	sleep 2s;
+	say "I need RAID 10";
+	sleep 5s;
+	say "Our license doesn't cover that";
+	sleep 5s;
+	say "That's not best practices";
+	sleep 10s;
 done
