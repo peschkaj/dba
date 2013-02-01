@@ -38,4 +38,14 @@ while [ 1 ]; do
 	sleep 5s;
 	say "It needs to be compressive, sargable, and performant";
 	sleep 10s;
+	say "I've never seen XML used like that. Tell me more."
+	sleep 2s
+	say "This is an application problem"
+	sleep 4s
+	say "Are you trying to increase the hardware budget?"
+	sleep 6s
+	say "Of course all columns should be nullable"
+	sleep 1s
+	say "Just because I wrote a cursor, doesn't mean you should"
+	sleep 5s
 done
