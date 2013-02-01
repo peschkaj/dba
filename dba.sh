@@ -28,4 +28,14 @@ while [ 1 ]; do
 	sleep 5s;
 	say "That's not best practices";
 	sleep 10s;
+	say "It's a network problem";
+	sleep 10s;
+	say "The index needs to be defragmented";
+	sleep 3s;
+	say "You don't have permissions to see that";
+	sleep 8s;
+	say "That would break replication";
+	sleep 5s;
+	say "It needs to be compressive, sargable, and performant";
+	sleep 10s;
 done
